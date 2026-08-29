@@ -1,6 +1,6 @@
 # Pookalam
 
-A digital recreation of a traditional Kerala pookalam using p5.js.
+Code-a-Pookalam is my own take on Kerala’s traditional pookalam where colours, patterns, and shapes come together through code to create a digital expression of Kerala’s floral art..
 
 ## Live Demo
 https://ritzyeg.github.io/Code-a-Pookalam/
